@@ -1,0 +1,24 @@
+To: ihor.khaletskyi@gmail.com
+Subject: New WordPress Site
+Date: Thu, 19 Aug 2021 11:45:20 +0000
+From: WordPress <wordpress@wp-post-rating.test>
+Message-ID: <I7Cx9FrxZz1owaSfWsiUEPv0AdJxSiKY1UnhaJNvY@wp-post-rating.test>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+http://wp-post-rating.test
+
+You can log in to the administrator account with the following information:
+
+Username: IhorK
+Password: The password you chose during installation.
+Log in here: http://wp-post-rating.test/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+
